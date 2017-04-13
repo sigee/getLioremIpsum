@@ -1,0 +1,9 @@
+{
+  "name": "getLoremIpsum",
+  "version": "0.0.1",
+  "dependencies": {
+    "google-closure-compiler": "^20170124.0.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
